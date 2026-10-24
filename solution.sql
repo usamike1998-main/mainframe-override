@@ -33,3 +33,6 @@ WHERE last_name ILIKE 'Steele';
 
 -- LidWj | your-boss-99 | triple-cart-38 | Project TAXI | Deploy Project TAXI by end of week. We need this out ASAP.
 
+SELECT *
+FROM emptystack_accounts
+WHERE username = 'your-boss-99';
