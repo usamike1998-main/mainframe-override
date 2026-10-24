@@ -36,3 +36,13 @@ WHERE last_name ILIKE 'Steele';
 SELECT *
 FROM emptystack_accounts
 WHERE username = 'your-boss-99';
+
+-- your-boss-99 | notagaincarter | Skylar     | Singer
+
+
+SELECT * 
+FROM emptystack_projects
+WHERE code ILIKE 'taxi';
+
+
+--  DczE0v2b | TAXI
